@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../springframework"
+		},
+		{
+			"name": "python",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic"
+	}
+}
