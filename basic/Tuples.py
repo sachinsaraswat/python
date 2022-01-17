@@ -6,4 +6,4 @@ fruits = ("Apple" ,"Pears" , "Grapes")
 print (colors)
 print (fruits)
 
-del colors[2] #Failure, not allowed
+del colors[2] #Failure, not allowed 
